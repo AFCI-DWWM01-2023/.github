@@ -2,20 +2,20 @@
 Promo Développeur Web et Web Mobile
 Du 20 Mars 2023 au 30 Novembre 2023  
 ### Languages & Tools  
-![imgGit](./profile/imgs/git.svg)&nbsp;&nbsp;
-![imgVscode](./profile/imgs/vscode.svg)&nbsp;&nbsp;
-![imgFigma](./profile/imgs/figma.svg)&nbsp;&nbsp;
-![imgHtml](./profile/imgs/html.svg) &nbsp;&nbsp;
-![imgCSS](./profile/imgs/css.svg)&nbsp;&nbsp;
-![imgLess](./profile/imgs/less-1.svg)&nbsp;&nbsp; 
-![imgPhp](./profile/imgs/php.svg)&nbsp;&nbsp;
-![imgSymfony](./profile/imgs/symfony.svg)&nbsp;&nbsp;
-![imgBootStrap](./profile/imgs/bootstrap.svg)&nbsp;&nbsp; 
-![imgJs](./profile/imgs/javascript.svg)&nbsp;&nbsp;
-![imgReact](./profile/imgs/react.svg)&nbsp;&nbsp;
-![imgMySql](./profile/imgs/mysql.svg)&nbsp;&nbsp;
-![imgPhpMyAdmin](./profile/imgs/PhpMyAdmin.svg)&nbsp;&nbsp;
-![imgWordpress](./profile/imgs/wordpress.svg)  
+![imgGit](./profile/img/git.svg)&nbsp;&nbsp;
+![imgVscode](./profile/img/vscode.svg)&nbsp;&nbsp;
+![imgFigma](./profile/img/figma.svg)&nbsp;&nbsp;
+![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;
+![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;
+![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp; 
+![imgPhp](./profile/img/php.svg)&nbsp;&nbsp;
+![imgSymfony](./profile/img/symfony.svg)&nbsp;&nbsp;
+![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; 
+![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;
+![imgReact](./profile/img/react.svg)&nbsp;&nbsp;
+![imgMySql](./profile/img/mysql.svg)&nbsp;&nbsp;
+![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;&nbsp;
+![imgWordpress](./profile/img/wordpress.svg)  
 
 
 ## Developer  

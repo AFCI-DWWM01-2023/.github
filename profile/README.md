@@ -21,7 +21,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 
 ## Developer  
 
-| Developer | GitHub | Intégration Web |
+| Developer | GitHub | Intégration Web - MASSIF |
 | :--------------- |:-----:| :-----:|
 |   |   ![imgGit](./profile/img/git.svg)        |  ![imgFigma](./profile/img/figma.svg)&nbsp;![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;|
 | Jayson  | <a href="https://github.com/Gazon-unlimited">🔗</a>           |   Aligné à droite |

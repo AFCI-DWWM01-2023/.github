@@ -33,7 +33,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 | Christian  | centré          |    Aligné à droite |
 | Valentin  | centré          |    Aligné à droite |
 | Maxime  | centré          |    Aligné à droite |
-| Adrien  | centré          |    Aligné à droite |
+| Adrien  | centré    🔗      |    Aligné à droite |
 
 <!--
 

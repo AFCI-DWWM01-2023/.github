@@ -21,7 +21,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 
 ## Developer  
 
-| Developer | GitHub | PortFolio |
+| Developer | GitHub | Maquettage |
 | :--------------- |:---------------:| :-----:|
 
 <!--

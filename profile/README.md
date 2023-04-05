@@ -19,7 +19,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 ![imgWordpress](./profile/img/wordpress.svg)  
 
 
-## CCP01 | Front - End    
+## CCP01 : Front - End    
 
 | Developer | GitHub | Intégration Web - MASSIF | LEGANDARY |
 | :---- |:-----:| :-----:| :-----:|

@@ -25,15 +25,15 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 | :--------------- |:---------------:| :-----:|
 |   |   ![imgGit](./profile/img/git.svg)        |  ![imgFigma](./profile/img/figma.svg)|
 | Jayson  | est             |   Aligné à droite |
-| Aligné à gauche  | centré          |    Aligné à droite |
-| Aligné à gauche  | centré          |    Aligné à droite |
-| Aligné à gauche  | centré          |    Aligné à droite |
-| Aligné à gauche  | centré          |    Aligné à droite |
-| Aligné à gauche  | centré          |    Aligné à droite |
-| Aligné à gauche  | centré          |    Aligné à droite |
-| Aligné à gauche  | centré          |    Aligné à droite |
-| Aligné à gauche  | centré          |    Aligné à droite |
-| Aligné à gauche  | centré          |    Aligné à droite |
+| Dylan  | centré          |    Aligné à droite |
+| Lucas  | centré          |    Aligné à droite |
+| Jean-Baptiste  | centré          |    Aligné à droite |
+| Maïwenn  | centré          |    Aligné à droite |
+| Kévin  | centré          |    Aligné à droite |
+| Christian  | centré          |    Aligné à droite |
+| Valentin  | centré          |    Aligné à droite |
+| Maxime  | centré          |    Aligné à droite |
+| Adrien  | centré          |    Aligné à droite |
 
 <!--
 

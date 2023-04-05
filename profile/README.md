@@ -28,7 +28,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 | Dylan  | <a href="https://github.com/DylanBruxelle">🔗</a>    |    Aligné à droite |
 | Lucas  | <a href="https://github.com/LucasDEKINDT">🔗</a>     |    Aligné à droite |
 | Jean-Baptiste  | <a href="https://github.com/jubeyds">🔗</a>  |    Aligné à droite |
-| Maïwenn  | <a href="https://github.com/MaiwL">🔗</a>          |    Aligné à droite |
+| Maïwenn  | <a href="https://github.com/MaiwL">🔗</a>          |   <a href="https://github.com/AFCI-DWWM01-2023/MASSIF-ML.git">🔗</a> |
 | Kévin  | <a href="https://github.com/kvnlblc">🔗</a>          |    Aligné à droite |
 | Christian  | <a href="https://github.com/ChristianJulien1">🔗</a> |    Aligné à droite |
 | Valentin  | <a href="https://github.com/vquersin">🔗</a>          |    <a href="https://github.com/AFCI-DWWM01-2023/MASSIF-VQ.git">🔗</a> |
@@ -38,6 +38,8 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 
 <!--
 https://github.com/AFCI-DWWM01-2023/MASSIF-VQ.git
+
+https://github.com/AFCI-DWWM01-2023/MASSIF-ML.git
 
 **Here are some ideas to get you started:**
 - [Massif](https://github.com/AFCI-DWWM01-2023/MASSIF)

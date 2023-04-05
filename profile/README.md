@@ -25,15 +25,15 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 | :---- |:-----:| :-----:| :-----:|
 |   |  ![imgGit](./profile/img/git.svg)&nbsp;  |  ![imgFigma](./profile/img/figma.svg)&nbsp; ![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg)|  ![imgFigma](./profile/img/figma.svg)&nbsp; ![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg)
 | Jayson  | <a href="https://github.com/Gazon-unlimited">🔗</a> |   <a href="#">🔗</a> |  <a href="#">🔗</a> |
-| Dylan  | <a href="https://github.com/DylanBruxelle">🔗</a>    |    Aligné à droite |
-| Lucas  | <a href="https://github.com/LucasDEKINDT">🔗</a>     |    Aligné à droite |
-| Jean-Baptiste  | <a href="https://github.com/jubeyds">🔗</a>  |    Aligné à droite |
+| Dylan  | <a href="https://github.com/DylanBruxelle">🔗</a>    |   <a href="#">🔗</a> |  <a href="#">🔗</a> |
+| Lucas  | <a href="https://github.com/LucasDEKINDT">🔗</a>     |   <a href="#">🔗</a> |  <a href="#">🔗</a> |
+| Jean-Baptiste  | <a href="https://github.com/jubeyds">🔗</a>  |   <a href="#">🔗</a> |  <a href="#">🔗</a> |
 | Maïwenn  | <a href="https://github.com/MaiwL">🔗</a>          |   <a href="https://github.com/AFCI-DWWM01-2023/MASSIF-ML.git">🔗</a> |
-| Kévin  | <a href="https://github.com/kvnlblc">🔗</a>          |    Aligné à droite |
-| Christian  | <a href="https://github.com/ChristianJulien1">🔗</a> |    Aligné à droite |
+| Kévin  | <a href="https://github.com/kvnlblc">🔗</a>          |   <a href="#">🔗</a> |  <a href="#">🔗</a> |
+| Christian  | <a href="https://github.com/ChristianJulien1">🔗</a> |    <a href="#">🔗</a> |  <a href="#">🔗</a> ||
 | Valentin  | <a href="https://github.com/vquersin">🔗</a>          |    <a href="https://github.com/AFCI-DWWM01-2023/MASSIF-VQ.git">🔗</a> |
-| Maxime  | <a href="https://github.com/maximevcgn">🔗</a>          |    Aligné à droite |
-| Adrien  | <a href="https://github.com/VoisinAdrien">🔗</a>        |    Aligné à droite |
+| Maxime  | <a href="https://github.com/maximevcgn">🔗</a>          |    <a href="#">🔗</a> |  <a href="#">🔗</a> |
+| Adrien  | <a href="https://github.com/VoisinAdrien">🔗</a>        |    <a href="#">🔗</a> |  <a href="#">🔗</a> |
 
 
 <!--

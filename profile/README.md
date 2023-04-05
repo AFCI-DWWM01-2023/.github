@@ -24,7 +24,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 | Developer | GitHub | Maquettage |
 | :--------------- |:---------------:| :-----:|
 |   |   ![imgGit](./profile/img/git.svg)        |  ![imgFigma](./profile/img/figma.svg)|
-| Jayson  | est             |   Aligné à droite |
+| Jayson  |  <a href="https://github.com/TDxDimitri">🔗</a>           |   Aligné à droite |
 | Dylan  | centré          |    Aligné à droite |
 | Lucas  | centré          |    Aligné à droite |
 | Jean-Baptiste  | centré          |    Aligné à droite |
@@ -36,6 +36,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 | Adrien  | centré    🔗      |    Aligné à droite |
 
 <!--
+https://github.com/Gazon-unlimited
 
 **Here are some ideas to get you started:**
 - [Massif](https://github.com/AFCI-DWWM01-2023/MASSIF)

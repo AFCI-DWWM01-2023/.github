@@ -26,14 +26,14 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 |   |   ![imgGit](./profile/img/git.svg)        |  ![imgFigma](./profile/img/figma.svg)|
 | Jayson  | <a href="https://github.com/Gazon-unlimited">🔗</a>           |   Aligné à droite |
 | Dylan  | <a href="https://github.com/DylanBruxelle">🔗</a>          |    Aligné à droite |
-| Lucas  | centré          |    Aligné à droite |
+| Lucas  | <a href="https://github.com/LucasDEKINDT">🔗</a>          |    Aligné à droite |
 | Jean-Baptiste  | centré          |    Aligné à droite |
 | Maïwenn  | centré          |    Aligné à droite |
-| Kévin  | centré          |    Aligné à droite |
-| Christian  | centré          |    Aligné à droite |
-| Valentin  | centré          |    Aligné à droite |
-| Maxime  | centré          |    Aligné à droite |
-| Adrien  | centré    🔗      |    Aligné à droite |
+| Kévin  | <a href="https://github.com/kvnlblc">🔗</a>          |    Aligné à droite |
+| Christian  | <a href="https://github.com/ChristianJulien1">🔗</a>          |    Aligné à droite |
+| Valentin  | <a href="https://github.com/vquersin">🔗</a>          |    Aligné à droite |
+| Maxime  | <a href="https://github.com/maximevcgn">🔗</a>          |    Aligné à droite |
+| Adrien  | <a href="https://github.com/VoisinAdrien">🔗</a>      |    Aligné à droite |
 
 <!--
 

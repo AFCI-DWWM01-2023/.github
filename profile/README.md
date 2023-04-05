@@ -35,7 +35,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 | Maxime  | <a href="https://github.com/maximevcgn">🔗</a>          |    <a href="#">🔗</a> |  <a href="#">🔗</a> |
 | Adrien  | <a href="https://github.com/VoisinAdrien">🔗</a>        |    <a href="#">🔗</a> |  <a href="#">🔗</a> |  
 
-##Briefs
+## Briefs
 
 
 <!--

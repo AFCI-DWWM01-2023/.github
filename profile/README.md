@@ -24,7 +24,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 | Developer | GitHub | Intégration Web - MASSIF | LEGANDARY |
 | :---- |:-----:| :-----:| :-----:|
 |   |  ![imgGit](./profile/img/git.svg)&nbsp;  |  ![imgFigma](./profile/img/figma.svg)&nbsp; ![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg)|  ![imgFigma](./profile/img/figma.svg)&nbsp; ![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg)
-| Jayson  | <a href="https://github.com/Gazon-unlimited">🔗</a> |   Aligné à droite |
+| Jayson  | <a href="https://github.com/Gazon-unlimited">🔗</a> |   <a href="#">🔗</a> |
 | Dylan  | <a href="https://github.com/DylanBruxelle">🔗</a>    |    Aligné à droite |
 | Lucas  | <a href="https://github.com/LucasDEKINDT">🔗</a>     |    Aligné à droite |
 | Jean-Baptiste  | <a href="https://github.com/jubeyds">🔗</a>  |    Aligné à droite |

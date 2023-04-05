@@ -23,7 +23,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 
 | Developer | GitHub | Intégration Web - MASSIF |
 | :---- |:-----:| :-----:|
-|   |  ![imgGit](./profile/img/git.svg)&nbsp;  |  ![imgFigma](./profile/img/figma.svg)&nbsp; ![imgHtml](./profile/img/html.svg)&nbsp; ![imgCSS](./profile/img/css.svg)&nbsp;&nbsp; |
+|   |  ![imgGit](./profile/img/git.svg)&nbsp;  |  ![imgFigma](./profile/img/figma.svg)&nbsp; ![imgHtml](./profile/img/html.svg)&nbsp; ![imgCSS](./profile/img/css.svg)&nbsp;|
 
 | Aligné à gauche  | est             |   Aligné à droite |
 | Aligné à gauche  | centré          |    Aligné à droite |

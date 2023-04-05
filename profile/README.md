@@ -27,13 +27,13 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 | Jayson  | <a href="https://github.com/Gazon-unlimited">🔗</a> |   Aligné à droite |
 | Dylan  | <a href="https://github.com/DylanBruxelle">🔗</a>    |    Aligné à droite |
 | Lucas  | <a href="https://github.com/LucasDEKINDT">🔗</a>     |    Aligné à droite |
-| Aligné à gauche  | centré          |    Aligné à droite |
-| Aligné à gauche  | centré          |    Aligné à droite |
-| Aligné à gauche  | centré          |    Aligné à droite |
-| Aligné à gauche  | centré          |    Aligné à droite |
-| Aligné à gauche  | centré          |    Aligné à droite |
-| Aligné à gauche  | centré          |    Aligné à droite |
-| Aligné à gauche  | centré          |    Aligné à droite |
+| Jean-Baptiste  | <a href="https://github.com/jubeyds">🔗</a>  |    Aligné à droite |
+| Maïwenn  | <a href="https://github.com/MaiwL">🔗</a>          |    Aligné à droite |
+| Kévin  | <a href="https://github.com/kvnlblc">🔗</a>          |    Aligné à droite |
+| Christian  | <a href="https://github.com/ChristianJulien1">🔗</a> |    Aligné à droite |
+| Valentin  | <a href="https://github.com/vquersin">🔗</a>          |    Aligné à droite |
+| Maxime  | <a href="https://github.com/maximevcgn">🔗</a>          |    Aligné à droite |
+| Adrien  | <a href="https://github.com/VoisinAdrien">🔗</a>        |    Aligné à droite |
 
 
 <!--

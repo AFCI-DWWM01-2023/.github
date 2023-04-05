@@ -24,6 +24,16 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 | Developer | GitHub | Maquettage |
 | :--------------- |:---------------:| :-----:|
 |   |   ![imgGit](./profile/img/git.svg)        |  ![imgFigma](./profile/img/figma.svg)|
+| Aligné à gauche  | est             |   Aligné à droite |
+| Aligné à gauche  | centré          |    Aligné à droite |
+| Aligné à gauche  | centré          |    Aligné à droite |
+| Aligné à gauche  | centré          |    Aligné à droite |
+| Aligné à gauche  | centré          |    Aligné à droite |
+| Aligné à gauche  | centré          |    Aligné à droite |
+| Aligné à gauche  | centré          |    Aligné à droite |
+| Aligné à gauche  | centré          |    Aligné à droite |
+| Aligné à gauche  | centré          |    Aligné à droite |
+| Aligné à gauche  | centré          |    Aligné à droite |
 
 <!--
 

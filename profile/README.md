@@ -31,13 +31,13 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 | Maïwenn  | <a href="https://github.com/MaiwL">🔗</a>          |    Aligné à droite |
 | Kévin  | <a href="https://github.com/kvnlblc">🔗</a>          |    Aligné à droite |
 | Christian  | <a href="https://github.com/ChristianJulien1">🔗</a> |    Aligné à droite |
-| Valentin  | <a href="https://github.com/vquersin">🔗</a>          |    Aligné à droite |
+| Valentin  | <a href="https://github.com/vquersin">🔗</a>          |    <a href="https://github.com/AFCI-DWWM01-2023/MASSIF-VQ.git">🔗</a> |
 | Maxime  | <a href="https://github.com/maximevcgn">🔗</a>          |    Aligné à droite |
 | Adrien  | <a href="https://github.com/VoisinAdrien">🔗</a>        |    Aligné à droite |
 
 
 <!--
-
+https://github.com/AFCI-DWWM01-2023/MASSIF-VQ.git
 
 **Here are some ideas to get you started:**
 - [Massif](https://github.com/AFCI-DWWM01-2023/MASSIF)

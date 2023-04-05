@@ -28,10 +28,10 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 | Dylan  | <a href="https://github.com/DylanBruxelle">🔗</a>    |   <a href="#">🔗</a> |  <a href="#">🔗</a> |
 | Lucas  | <a href="https://github.com/LucasDEKINDT">🔗</a>     |   <a href="#">🔗</a> |  <a href="#">🔗</a> |
 | Jean-Baptiste  | <a href="https://github.com/jubeyds">🔗</a>  |   <a href="#">🔗</a> |  <a href="#">🔗</a> |
-| Maïwenn  | <a href="https://github.com/MaiwL">🔗</a>          |   <a href="https://github.com/AFCI-DWWM01-2023/MASSIF-ML.git">🔗</a> |
+| Maïwenn  | <a href="https://github.com/MaiwL">🔗</a>          |   <a href="https://github.com/AFCI-DWWM01-2023/MASSIF-ML.git">🔗</a> | <a href="#">🔗</a> |
 | Kévin  | <a href="https://github.com/kvnlblc">🔗</a>          |   <a href="#">🔗</a> |  <a href="#">🔗</a> |
 | Christian  | <a href="https://github.com/ChristianJulien1">🔗</a> |    <a href="#">🔗</a> |  <a href="#">🔗</a> ||
-| Valentin  | <a href="https://github.com/vquersin">🔗</a>          |    <a href="https://github.com/AFCI-DWWM01-2023/MASSIF-VQ.git">🔗</a> |
+| Valentin  | <a href="https://github.com/vquersin">🔗</a>          |    <a href="https://github.com/AFCI-DWWM01-2023/MASSIF-VQ.git">🔗</a> | <a href="#">🔗</a> |
 | Maxime  | <a href="https://github.com/maximevcgn">🔗</a>          |    <a href="#">🔗</a> |  <a href="#">🔗</a> |
 | Adrien  | <a href="https://github.com/VoisinAdrien">🔗</a>        |    <a href="#">🔗</a> |  <a href="#">🔗</a> |
 

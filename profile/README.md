@@ -37,7 +37,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 
 ## Briefs
 
-- [Intégration Web](https://github.com/AFCI-DWWM01-2023/MASSIF.git)
+- [Intégration Web : MASSIF](https://github.com/AFCI-DWWM01-2023/MASSIF.git)
 
 <!--
 https://github.com/AFCI-DWWM01-2023/MASSIF-VQ.git

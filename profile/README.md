@@ -47,7 +47,22 @@ ou Web Mobile en intégrant les recommandations de sécurité
 
 ## CCP2 - Back - End
 Développer la partie Back-End d'une application Web  
-ou Web Mobile en intégrant les recommandations de sécurité
+ou Web Mobile en intégrant les recommandations de sécurité  
+
+| Developer | GitHub | Intégration Web - MASSIF | LEGANDARY | BOOTSTRAP |
+| :---- |:-----:| :-----:| :-----:| :-----:|
+|   |  ![imgGit](./profile/img/git.svg)&nbsp;  |  ![imgFigma](./profile/img/figma.svg)&nbsp; ![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg)|  ![imgFigma](./profile/img/figma.svg)&nbsp; ![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg) | ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; |
+| Jayson  | <a href="https://github.com/Gazon-unlimited">🔗</a> |   <a href="#">🔗</a> |  <a href="#">🔗</a> |
+| Dylan  | <a href="https://github.com/DylanBruxelle">🔗</a>    |   <a href="#">🔗</a> |  <a href="#">🔗</a> |
+| Lucas  | <a href="https://github.com/LucasDEKINDT">🔗</a>     |   <a href="#">🔗</a> |  <a href="#">🔗</a> |
+| Jean-Baptiste  | <a href="https://github.com/jubeyds">🔗</a>  |   <a href="#">🔗</a> |  <a href="#">🔗</a> |
+| Maïwenn  | <a href="https://github.com/MaiwL">🔗</a>          |   <a href="https://github.com/AFCI-DWWM01-2023/MASSIF-ML.git">🔗</a> | <a href="#">🔗</a> |
+| Kévin  | <a href="https://github.com/kvnlblc">🔗</a>          |   <a href="#">🔗</a> |  <a href="#">🔗</a> |
+| Christian  | <a href="https://github.com/ChristianJulien1">🔗</a> |    <a href="#">🔗</a> |  <a href="#">🔗</a> ||
+| Valentin  | <a href="https://github.com/vquersin">🔗</a>          |    <a href="https://github.com/AFCI-DWWM01-2023/MASSIF-VQ.git">🔗</a> | <a href="#">🔗</a> |
+| Maxime  | <a href="https://github.com/maximevcgn">🔗</a>          |    <a href="#">🔗</a> |  <a href="#">🔗</a> |
+| Adrien  | <a href="https://github.com/VoisinAdrien">🔗</a>        |    <a href="#">🔗</a> |  <a href="#">🔗</a> |  
+
 <!--
 https://github.com/AFCI-DWWM01-2023/MASSIF-VQ.git
 

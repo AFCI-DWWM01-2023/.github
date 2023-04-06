@@ -24,7 +24,7 @@ Développer la partie Front-End d'une application Web
 ou Web Mobile en intégrant les recommandations de sécurité
 | Developer | GitHub | Intégration Web - MASSIF | LEGANDARY | BOOTSTRAP |
 | :---- |:-----:| :-----:| :-----:| :-----:|
-|   |  ![imgGit](./profile/img/git.svg)&nbsp;  |  ![imgFigma](./profile/img/figma.svg)&nbsp; ![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg) ![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp;|  ![imgFigma](./profile/img/figma.svg)&nbsp; ![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg) | ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; |
+|   |  ![imgGit](./profile/img/git.svg)&nbsp;  |  ![imgFigma](./profile/img/figma.svg)&nbsp; ![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg) ![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp;|  ![imgFigma](./profile/img/figma.svg)&nbsp; ![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg) ![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp; | ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; |
 | Jayson  | <a href="https://github.com/Gazon-unlimited">🔗</a> |   <a href="#">🔗</a> |  <a href="#">🔗</a> |
 | Dylan  | <a href="https://github.com/DylanBruxelle">🔗</a>    |   <a href="#">🔗</a> |  <a href="#">🔗</a> |
 | Lucas  | <a href="https://github.com/LucasDEKINDT">🔗</a>     |   <a href="#">🔗</a> |  <a href="#">🔗</a> |

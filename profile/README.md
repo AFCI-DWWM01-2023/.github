@@ -19,7 +19,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 ![imgWordpress](./profile/img/wordpress.svg)    
 
 
-## CCP01 : Front - End    
+## CCP1 : Front - End    
 Développer la partie Front-End d'une application Web   
 ou Web Mobile en intégrant les recommandations de sécurité
 | Developer | GitHub | Intégration Web - MASSIF | LEGANDARY | BOOTSTRAP |
@@ -41,6 +41,9 @@ ou Web Mobile en intégrant les recommandations de sécurité
 - [Intégration Web : MASSIF](https://github.com/AFCI-DWWM01-2023/MASSIF)
 
 - [Intégration Web : LEGENDARY](https://github.com/AFCI-DWWM01-2023/LEGENDARY)
+
+  
+  ## CCP2 - Back - End
 
 <!--
 https://github.com/AFCI-DWWM01-2023/MASSIF-VQ.git

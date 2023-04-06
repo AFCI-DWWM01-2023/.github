@@ -22,7 +22,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 ## CCP01 : Front - End    
 Développer la partie Front-End d'une application Web   
 ou Web Mobile en intégrant les recommandations de sécurité
-| Developer | GitHub | Intégration Web - MASSIF | LEGANDARY |
+| Developer | GitHub | Intégration Web - MASSIF | LEGANDARY | BOOTSTRAP |
 | :---- |:-----:| :-----:| :-----:|
 |   |  ![imgGit](./profile/img/git.svg)&nbsp;  |  ![imgFigma](./profile/img/figma.svg)&nbsp; ![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg)|  ![imgFigma](./profile/img/figma.svg)&nbsp; ![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg)
 | Jayson  | <a href="https://github.com/Gazon-unlimited">🔗</a> |   <a href="#">🔗</a> |  <a href="#">🔗</a> |

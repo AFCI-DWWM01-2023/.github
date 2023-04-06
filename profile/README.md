@@ -39,7 +39,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 
 - [Intégration Web : MASSIF](https://github.com/AFCI-DWWM01-2023/MASSIF)
 
-- [Intégration Web : LEGENDARY](https://github.com/AFCI-DWWM01-2023/LEGENDARY.git)
+- [Intégration Web : LEGENDARY](https://github.com/AFCI-DWWM01-2023/LEGENDARY)
 
 <!--
 https://github.com/AFCI-DWWM01-2023/MASSIF-VQ.git

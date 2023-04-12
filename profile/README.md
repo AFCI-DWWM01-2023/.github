@@ -42,7 +42,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 
 - [Intégration Web : LEGENDARY](https://github.com/AFCI-DWWM01-2023/LEGENDARY)
 
-
+- [Bootstrap : Hosting Landing Page](https://github.com/AFCI-DWWM01-2023/LEGENDARY)
 
 
 ## CCP2 - Back - End

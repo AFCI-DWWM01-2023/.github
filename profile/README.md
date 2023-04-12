@@ -36,7 +36,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 | Maxime  | <a href="https://github.com/maximevcgn">🔗</a>          |    <a href="#">🔗</a> |  <a href="#">🔗</a> |
 | Adrien  | <a href="https://github.com/VoisinAdrien">🔗</a>        |    <a href="#">🔗</a> |  <a href="#">🔗</a> |  
 
-## Briefs
+## Briefs - Front-end
 
 - [Intégration Web : MASSIF](https://github.com/AFCI-DWWM01-2023/MASSIF)
 

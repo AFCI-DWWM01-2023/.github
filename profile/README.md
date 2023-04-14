@@ -16,7 +16,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 ![imgReact](./profile/img/react.svg)&nbsp;&nbsp;
 ![imgMySql](./profile/img/mysql.svg)&nbsp;&nbsp;
 ![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;&nbsp;
-![imgWordpress](./profile/img/wordpress.svg)     
+![imgWordpress](./profile/img/wordpress.svg) 
 &nbsp;&nbsp;
 ### [Intégration Web : LEGENDARY](https://github.com/AFCI-DWWM01-2023/LEGENDARY)
 &nbsp;&nbsp;

@@ -18,7 +18,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 ![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;&nbsp;
 ![imgWordpress](./profile/img/wordpress.svg)   
 
-### Préparation oral
+
 
 
 ## CCP1 : Front - End    

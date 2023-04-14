@@ -18,7 +18,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 ![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;&nbsp;
 ![imgWordpress](./profile/img/wordpress.svg) 
 &nbsp;&nbsp;
-### [Intégration Web : LEGENDARY](https://github.com/AFCI-DWWM01-2023/LEGENDARY)
+### [Préparation oral](https://github.com/AFCI-DWWM01-2023/LEGENDARY)
 &nbsp;&nbsp;
 ## CCP1 : Front - End    
 Développer la partie Front-End d'une application Web   

@@ -38,7 +38,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 
 ## Briefs - Front-end
 
-- [Intégration Web : MASSIF](https://github.com/AFCI-DWWM01-2023/MASSIF)
+- [Intégration Web : MASSIF-🚩](https://github.com/AFCI-DWWM01-2023/MASSIF)
 
 - [Intégration Web : LEGENDARY](https://github.com/AFCI-DWWM01-2023/LEGENDARY)
 

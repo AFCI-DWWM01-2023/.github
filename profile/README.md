@@ -1,7 +1,10 @@
 # DWWM01 - 2023 👋  
 ### Promo Développeur Web et Web Mobile  
 Du 20 Mars 2023 au 30 Novembre 2023  
-Période de stage en entreprise : 21 Août au 15 Novembre 2023
+Période de stage en entreprise : 21 Août au 15 Novembre 2023  
+&nbsp;&nbsp;
+### [Préparation oral](https://github.com/AFCI-DWWM01-2023/LEGENDARY)
+&nbsp;&nbsp;
 ## Languages & Tools  
 ![imgGit](./profile/img/git.svg)&nbsp;&nbsp;
 ![imgVscode](./profile/img/vscode.svg)&nbsp;&nbsp;
@@ -17,9 +20,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 ![imgMySql](./profile/img/mysql.svg)&nbsp;&nbsp;
 ![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;&nbsp;
 ![imgWordpress](./profile/img/wordpress.svg) 
-&nbsp;&nbsp;
-### [Préparation oral](https://github.com/AFCI-DWWM01-2023/LEGENDARY)
-&nbsp;&nbsp;
+
 ## CCP1 : Front - End    
 Développer la partie Front-End d'une application Web   
 ou Web Mobile en intégrant les recommandations de sécurité

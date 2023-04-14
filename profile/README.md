@@ -21,6 +21,10 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 
 
 
+- [Intégration Web : LEGENDARY](https://github.com/AFCI-DWWM01-2023/LEGENDARY)
+
+
+
 ## CCP1 : Front - End    
 Développer la partie Front-End d'une application Web   
 ou Web Mobile en intégrant les recommandations de sécurité

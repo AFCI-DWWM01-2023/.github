@@ -44,7 +44,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 
 - [Intégration Web : ULTIME](https://github.com/AFCI-DWWM01-2023/ULTIME)
 
-- [Bootstrap : Hosting Landing Page](https://github.com/AFCI-DWWM01-2023/Hosting)
+- [Bootstrap : Hosting Landing Page-🚩](https://github.com/AFCI-DWWM01-2023/Hosting)
 
 - [Bootstrap : Sujet libre](https://github.com/AFCI-DWWM01-2023/LEGENDARY)
 

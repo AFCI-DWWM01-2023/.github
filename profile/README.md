@@ -20,7 +20,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 
 
 
-
+&nbsp;&nbsp;
 ### [Intégration Web : LEGENDARY](https://github.com/AFCI-DWWM01-2023/LEGENDARY)
 
 

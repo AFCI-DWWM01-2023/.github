@@ -2,9 +2,9 @@
 ### Promo Développeur Web et Web Mobile  
 Du 20 Mars 2023 au 30 Novembre 2023  
 Période de stage en entreprise : 21 Août au 15 Novembre 2023  
-&nbsp;&nbsp;
+&nbsp;
 ### [Préparation oral](https://github.com/AFCI-DWWM01-2023/LEGENDARY)
-&nbsp;&nbsp;
+&nbsp;
 ## Languages & Tools  
 ![imgGit](./profile/img/git.svg)&nbsp;&nbsp;
 ![imgVscode](./profile/img/vscode.svg)&nbsp;&nbsp;

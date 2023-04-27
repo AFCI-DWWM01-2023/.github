@@ -77,7 +77,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 ## Wordpress - Front et Back  
 
 | Developer | GitHub | Sujet Libre  Front-End | Legendary | Ultime | Hosting Landing Page |  Sujet libre |
-| :---- |:-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
+| :---- |:-----:| :--:| :-----:| :-----:| :-----:| :-----:|
 |   |  ![imgGit](./profile/img/git.svg)&nbsp;  | ![imgWordpress](./profile/img/wordpress.svg) ![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;&nbsp; |
 | Maxime  | <a href="https://github.com/maximevcgn">🔗</a>          |    <a href="#">🔗</a> |  <a href="#">🔗</a> |
 | Adrien  | <a href="https://github.com/VoisinAdrien">🔗</a>        |    <a href="#">🔗</a> |  <a href="#">🔗</a> | 

@@ -78,6 +78,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 
 | Developer | GitHub | Massif | Legendary | Ultime | Hosting Landing Page |  Sujet libre |
 | :---- |:-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
+|   |  ![imgGit](./profile/img/git.svg)&nbsp;  | 
 
 <!--
 https://github.com/AFCI-DWWM01-2023/MASSIF-VQ.git

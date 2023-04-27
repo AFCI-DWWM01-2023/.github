@@ -76,9 +76,9 @@ ou Web Mobile en intégrant les recommandations de sécurité
 
 ## Wordpress - Front et Back  
 
-| Developer | GitHub | Massif | Legendary | Ultime | Hosting Landing Page |  Sujet libre |
+| Developer | GitHub | Sujet Libre | Legendary | Ultime | Hosting Landing Page |  Sujet libre |
 | :---- |:-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
-|   |  ![imgGit](./profile/img/git.svg)&nbsp;  | 
+|   |  ![imgGit](./profile/img/git.svg)&nbsp;  | ![imgWordpress](./profile/img/wordpress.svg) |
 
 <!--
 https://github.com/AFCI-DWWM01-2023/MASSIF-VQ.git

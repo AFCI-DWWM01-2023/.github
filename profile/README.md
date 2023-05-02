@@ -55,7 +55,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 Développer la partie Back-End d'une application Web  
 ou Web Mobile en intégrant les recommandations de sécurité  
 
-| Developer | GitHub | ECF - PHP | LEGANDARY | BOOTSTRAP |
+| Developer | GitHub | ECF - PHP | PHP - WEB | BOOTSTRAP |
 | :---- |:-----:| :-----:| :-----:| :-----:|
 |   |  ![imgGit](./profile/img/git.svg)&nbsp;  |  ![imgVscode](./profile/img/vscode.svg)&nbsp; ![imgPhp](./profile/img/php.svg)&nbsp;&nbsp;|  ![imgFigma](./profile/img/figma.svg)&nbsp; ![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg) | ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; |
 | Jayson  | <a href="https://github.com/Gazon-unlimited">🔗</a> |   <a href="#">🔗</a> |  <a href="#">🔗</a> |

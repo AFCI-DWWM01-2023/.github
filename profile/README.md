@@ -21,7 +21,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 ![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;&nbsp;
 ![imgWordpress](./profile/img/wordpress.svg) 
 
-## CCP1 : Front - End    
+# CCP1 : Front - End    
 Développer la partie Front-End d'une application Web   
 ou Web Mobile en intégrant les recommandations de sécurité
 | Developer | GitHub | Massif | Legendary | Ultime | Hosting Landing Page |  Sujet libre |
@@ -51,7 +51,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 - [Bootstrap : Sujet libre](https://github.com/AFCI-DWWM01-2023/SujetLibre.git)
 
 
-## CCP2 - Back - End
+# CCP2 - Back - End
 Développer la partie Back-End d'une application Web  
 ou Web Mobile en intégrant les recommandations de sécurité  
 

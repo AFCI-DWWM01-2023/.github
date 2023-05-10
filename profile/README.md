@@ -75,7 +75,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 - [PHP-WEB | Part 1 : Convertisseur de chiffres Romain](https://github.com/AFCI-DWWM01-2023/CONVERTISSEUR.git)
 - [PHP-WEB | Part 2 : Les expressions régulières](https://github.com/AFCI-DWWM01-2023/REGEX.git)
 - [PHP-WEB | Part 3 : Les sessions](https://github.com/AFCI-DWWM01-2023/SESSION.git)
-- [PHP-WEB | Part 4 : Les sessions](https://github.com/AFCI-DWWM01-2023/ECF-PHP)
+- [PHP-WEB | Part 4 : Les cookies](https://github.com/AFCI-DWWM01-2023/ECF-PHP)
 
 
 

@@ -61,7 +61,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 | Jayson  | <a href="https://github.com/Gazon-unlimited">🔗</a> |   <a href="https://github.com/AFCI-DWWM01-2023/ECF-PHP-BREMENT-Jayson.git">🔗</a> |  <a href="#">🔗</a> |
 | Dylan  | <a href="https://github.com/DylanBruxelle">🔗</a>    |   <a href="#">🔗</a> |  <a href="#">🔗</a> |
 | Lucas  | <a href="https://github.com/LucasDEKINDT">🔗</a>     |   <a href="https://github.com/AFCI-DWWM01-2023/ECF-PHP-DEKINDT-Lucas.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/ECF-PHP-DEKINDT-Lucas.git">🔗</a> |
-| Jean-Baptiste  | <a href="https://github.com/jubeyds">🔗</a>  |   <a href="#">🔗</a> |  <a href="#">🔗</a> |
+| Jean-Baptiste  | <a href="https://github.com/jubeyds">🔗</a>  |   <a href="https://github.com/AFCI-DWWM01-2023/ECF-PHP-DESOUSA-JB.git">🔗</a> |  <a href="#">🔗</a> |
 | Maïwenn  | <a href="https://github.com/MaiwL">🔗</a>          |   <a href="https://github.com/AFCI-DWWM01-2023/MASSIF-ML.git">🔗</a> | <a href="#">🔗</a> |
 | Kévin  | <a href="https://github.com/kvnlblc">🔗</a>          |   <a href="#">🔗</a> |  <a href="#">🔗</a> |
 | Christian  | <a href="https://github.com/ChristianJulien1">🔗</a> |    <a href="#">🔗</a> |  <a href="#">🔗</a> ||

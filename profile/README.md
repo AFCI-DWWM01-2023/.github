@@ -17,7 +17,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; 
 ![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;
 ![imgReact](./profile/img/react.svg)&nbsp;&nbsp;
-![imgMySql](./profile/img/mysql.svg)&nbsp;&nbsp;
+![imgMySql](./profile/img/mysql1.svg)&nbsp;&nbsp;
 ![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;&nbsp;
 ![imgWordpress](./profile/img/wordpress.svg) 
 
@@ -56,7 +56,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 
 | Developer | GitHub | ECF - PHP | PHP - WEB<br>Part 1 | PHP - WEB<br>Part 2 | PHP - WEB<br>Part 3 | PHP - WEB<br>Part 4 | BDD - RPG |
 | :---- |:-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
-|   |  ![imgGit](./profile/img/git.svg)&nbsp;  |  ![imgVscode](./profile/img/vscode.svg)&nbsp; ![imgPhp](./profile/img/php.svg)&nbsp;&nbsp;|  ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; ![imgPhp](./profile/img/php.svg)&nbsp;&nbsp; | ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; ![imgPhp](./profile/img/php.svg)&nbsp;&nbsp; | ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; ![imgPhp](./profile/img/php.svg)&nbsp;&nbsp; | ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; ![imgPhp](./profile/img/php.svg)&nbsp;&nbsp; | ![imgMySql](./profile/img/mysql.svg)&nbsp;&nbsp; |
+|   |  ![imgGit](./profile/img/git.svg)&nbsp;  |  ![imgVscode](./profile/img/vscode.svg)&nbsp; ![imgPhp](./profile/img/php.svg)&nbsp;&nbsp;|  ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; ![imgPhp](./profile/img/php.svg)&nbsp;&nbsp; | ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; ![imgPhp](./profile/img/php.svg)&nbsp;&nbsp; | ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; ![imgPhp](./profile/img/php.svg)&nbsp;&nbsp; | ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; ![imgPhp](./profile/img/php.svg)&nbsp;&nbsp; | ![imgMySql](./profile/img/mysql1.svg)&nbsp;&nbsp; |
 | Jayson  | <a href="https://github.com/Gazon-unlimited">🔗</a> |   <a href="https://github.com/AFCI-DWWM01-2023/ECF-PHP-BREMENT-Jayson.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_JayB.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_JayB.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_JayB.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_JayB.git">🔗</a> | <a href="#">🔗</a> |
 | Lucas  | <a href="https://github.com/LucasDEKINDT">🔗</a>     |   <a href="https://github.com/AFCI-DWWM01-2023/ECF-PHP-DEKINDT-Lucas.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_LD.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_LD.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_LD.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_LD.git">🔗</a> | <a href="#">🔗</a> |
 | Jean-Baptiste  | <a href="https://github.com/jubeyds">🔗</a>  |   <a href="https://github.com/AFCI-DWWM01-2023/ECF-PHP-DESOUSA-JB.git">🔗</a> |  <a href="#">🔗</a> | <a href="#">🔗</a> | <a href="#">🔗</a> | <a href="#">🔗</a> | <a href="#">🔗</a> |

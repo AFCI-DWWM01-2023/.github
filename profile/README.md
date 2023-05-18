@@ -12,7 +12,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 ![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;
 ![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;
 ![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp; 
-![imgPhp](./profile/img/php1.svg)&nbsp;&nbsp;
+![imgPhp](./profile/img/php.svg)&nbsp;&nbsp;
 ![imgSymfony](./profile/img/symfony.svg)&nbsp;&nbsp;
 ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; 
 ![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;

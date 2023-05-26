@@ -12,7 +12,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 ![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;
 ![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;
 ![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp; 
-![imgPhp](./profile/img/php.svg)&nbsp;&nbsp;
+![imgPhp](./profile/img/php1.svg)&nbsp;&nbsp;
 ![imgSymfony](./profile/img/symfony.svg)&nbsp;&nbsp;
 ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; 
 ![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;
@@ -34,7 +34,6 @@ ou Web Mobile en intégrant les recommandations de sécurité
 | Kévin  | <a href="https://github.com/kvnlblc">🔗</a>          |   <a href="https://github.com/AFCI-DWWM01-2023/MassifKL.git">🔗</a> |  <a href="#">🔗</a> |  <a href="#">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/HostingKL.git">🔗</a> |  <a href="#">🔗</a> |
 | Christian  | <a href="https://github.com/ChristianJulien1">🔗</a> |    <a href="https://github.com/AFCI-DWWM01-2023/MASSIF-MC.git">🔗</a> |  <a href="#">🔗</a> |  <a href="#">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/HOSTING-MC.git">🔗</a> |  <a href="#">🔗</a> |
 | Valentin  | <a href="https://github.com/vquersin">🔗</a>          |    <a href="https://github.com/AFCI-DWWM01-2023/MASSIF-VQ.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/LEGENDARY-VQ.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/ULTIME-VQ.git">🔗👍</a> |  <a href="https://github.com/AFCI-DWWM01-2023/HOSTING-VQ.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/Sujet-Libre-VQ.git">🔗👍</a> |
-| Maxime  | <a href="https://github.com/maximevcgn">🔗</a>          |    <a href="https://github.com/AFCI-DWWM01-2023/MASSIF-MV.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/LEGENDARY-MV.git">🔗</a> |  <a href="#">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/Hosting-MV.git">🔗</a> |  <a href="#">🔗</a> |
 | Adrien  | <a href="https://github.com/VoisinAdrien">🔗</a>        |    <a href="https://github.com/AFCI-DWWM01-2023/MASSIF-AV.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/LegendaryAV.git">🔗</a> |  <a href="#">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/HOSTING-AV.git">🔗</a> |  <a href="#">🔗</a> |
 
 ## Briefs - Front-end
@@ -57,14 +56,13 @@ ou Web Mobile en intégrant les recommandations de sécurité
 | Developer | GitHub | ECF - PHP | PHP - WEB<br>Part 1 | PHP - WEB<br>Part 2 | PHP - WEB<br>Part 3 | PHP - WEB<br>Part 4 | BDD - RPG |
 | :---- |:-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
 |   |  ![imgGit](./profile/img/git.svg)&nbsp;  |  ![imgVscode](./profile/img/vscode.svg)&nbsp; ![imgPhp](./profile/img/php.svg)&nbsp;&nbsp;|  ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; ![imgPhp](./profile/img/php.svg)&nbsp;&nbsp; | ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; ![imgPhp](./profile/img/php.svg)&nbsp;&nbsp; | ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; ![imgPhp](./profile/img/php.svg)&nbsp;&nbsp; | ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; ![imgPhp](./profile/img/php.svg)&nbsp;&nbsp; | ![imgMySql](./profile/img/mysql1.svg)&nbsp;&nbsp; |
-| Jayson  | <a href="https://github.com/Gazon-unlimited">🔗</a> |   <a href="https://github.com/AFCI-DWWM01-2023/ECF-PHP-BREMENT-Jayson.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_JayB.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_JayB.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_JayB.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_JayB.git">🔗</a> | <a href="#">🔗</a> |
-| Lucas  | <a href="https://github.com/LucasDEKINDT">🔗</a>     |   <a href="https://github.com/AFCI-DWWM01-2023/ECF-PHP-DEKINDT-Lucas.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_LD.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_LD.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_LD.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_LD.git">🔗</a> | <a href="#">🔗</a> |
-| Jean-Baptiste  | <a href="https://github.com/jubeyds">🔗</a>  |   <a href="https://github.com/AFCI-DWWM01-2023/ECF-PHP-DESOUSA-JB.git">🔗</a> |  <a href="#">🔗</a> | <a href="#">🔗</a> | <a href="#">🔗</a> | <a href="#">🔗</a> | <a href="#">🔗</a> |
+| Jayson  | <a href="https://github.com/Gazon-unlimited">🔗</a> |   <a href="https://github.com/AFCI-DWWM01-2023/ECF-PHP-BREMENT-Jayson.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_JayB.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_JayB.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_JayB.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_JayB.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/requeteSQL_JayB.git">🔗</a> |
+| Lucas  | <a href="https://github.com/LucasDEKINDT">🔗</a>     |   <a href="https://github.com/AFCI-DWWM01-2023/ECF-PHP-DEKINDT-Lucas.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_LD.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_LD.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_LD.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedura_LD.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/RPG-LD.git">🔗</a> |
+| Jean-Baptiste  | <a href="https://github.com/jubeyds">🔗</a>  |   <a href="https://github.com/AFCI-DWWM01-2023/ECF-PHP-DESOUSA-JB.git">🔗</a> |  <a href="#">🔗</a> | <a href="#">🔗</a> | <a href="#">🔗</a> | <a href="#">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/RPG-JBDS.git">🔗</a> |
 | Maïwenn  | <a href="https://github.com/MaiwL">🔗</a>          |   <a href="https://github.com/AFCI-DWWM01-2023/ECF-PHP-Lemaire-Maiwenn.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedural_ML.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedural_ML.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedural_ML.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpProcedural_ML.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/RPG_ML.git">🔗</a> |
-| Kévin  | <a href="https://github.com/kvnlblc">🔗</a>          |   <a href="https://github.com/AFCI-DWWM01-2023/ECF-PHP-LIBLANC-Kevin.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/phpprocedural_KL.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpprocedural_KL.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpprocedural_KL.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpprocedural_KL.git">🔗</a> | <a href="#">🔗</a> |
+| Kévin  | <a href="https://github.com/kvnlblc">🔗</a>          |   <a href="https://github.com/AFCI-DWWM01-2023/ECF-PHP-LIBLANC-Kevin.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/phpprocedural_KL.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpprocedural_KL.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpprocedural_KL.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpprocedural_KL.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/RPG_KL.git">🔗</a> |
 | Christian  | <a href="https://github.com/ChristianJulien1">🔗</a> |    <a href="https://github.com/AFCI-DWWM01-2023/ECP-PHP-M-Christian.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/PHP-PROCEDURAL-MC.git">🔗</a> |<a href="https://github.com/AFCI-DWWM01-2023/PHP-PROCEDURAL-MC.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/PHP-PROCEDURAL-MC.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/PHP-PROCEDURAL-MC.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/RPG-MC.git">🔗</a> |
 | Valentin  | <a href="https://github.com/vquersin">🔗</a>          |    <a href="https://github.com/AFCI-DWWM01-2023/ECP_PHP_quersin_valentin.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/PhpProcedura_VQ.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/PhpProcedura_VQ.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/PhpProcedura_VQ.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/PhpProcedura_VQ.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/RPG_VQ.git">🔗</a> |
-| Maxime  | <a href="https://github.com/maximevcgn">🔗</a>          |    <a href="#">🔗</a> |  <a href="#">🔗</a> |
 | Adrien  | <a href="https://github.com/VoisinAdrien">🔗</a>        |    <a href="#">🔗</a> |  <a href="#">🔗</a> |  
 
 ## Briefs - Back-End  
@@ -83,7 +81,6 @@ ou Web Mobile en intégrant les recommandations de sécurité
 | Developer | GitHub | Sujet Libre<br>Front-End | Legendary | Ultime | Hosting Landing Page |  Sujet libre |
 | :---- |:-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
 |   |  ![imgGit](./profile/img/git.svg)&nbsp;  | ![imgWordpress](./profile/img/wordpress.svg) ![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;&nbsp; |
-| Maxime  | <a href="https://github.com/maximevcgn">🔗</a>          |    <a href="#">🔗</a> |  <a href="#">🔗</a> |
 | Adrien  | <a href="https://github.com/VoisinAdrien">🔗</a>        |    <a href="#">🔗</a> |  <a href="#">🔗</a> | 
 
 <!--
@@ -99,4 +96,5 @@ https://github.com/AFCI-DWWM01-2023/MASSIF-ML.git
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+✔️
 -->

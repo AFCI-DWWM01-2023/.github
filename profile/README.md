@@ -63,7 +63,6 @@ ou Web Mobile en intégrant les recommandations de sécurité
 | Kévin  | <a href="https://github.com/kvnlblc">🔗</a>          |   <a href="https://github.com/AFCI-DWWM01-2023/ECF-PHP-LIBLANC-Kevin.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/phpprocedural_KL.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpprocedural_KL.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpprocedural_KL.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/phpprocedural_KL.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/RPG_KL.git">🔗✔️</a> |
 | Christian  | <a href="https://github.com/ChristianJulien1">🔗</a> |    <a href="https://github.com/AFCI-DWWM01-2023/ECP-PHP-M-Christian.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/PHP-PROCEDURAL-MC.git">🔗</a> |<a href="https://github.com/AFCI-DWWM01-2023/PHP-PROCEDURAL-MC.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/PHP-PROCEDURAL-MC.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/PHP-PROCEDURAL-MC.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/RPG-MC.git">🔗✔️</a> |
 | Valentin  | <a href="https://github.com/vquersin">🔗</a>          |    <a href="https://github.com/AFCI-DWWM01-2023/ECP_PHP_quersin_valentin.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/PhpProcedura_VQ.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/PhpProcedura_VQ.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/PhpProcedura_VQ.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/PhpProcedura_VQ.git">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/RPG_VQ.git">🔗✔️</a> |
-| Maxime  | <a href="https://github.com/maximevcgn">🔗</a>          |    <a href="#">🔗</a> |  <a href="#">🔗</a> |
 | Adrien  | <a href="https://github.com/VoisinAdrien">🔗</a>        |    <a href="#">🔗</a> |  <a href="#">🔗</a> |  
 
 ## Briefs - Back-End  
@@ -82,7 +81,6 @@ ou Web Mobile en intégrant les recommandations de sécurité
 | Developer | GitHub | Sujet Libre<br>Front-End | Legendary | Ultime | Hosting Landing Page |  Sujet libre |
 | :---- |:-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
 |   |  ![imgGit](./profile/img/git.svg)&nbsp;  | ![imgWordpress](./profile/img/wordpress.svg) ![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;&nbsp; |
-| Maxime  | <a href="https://github.com/maximevcgn">🔗</a>          |    <a href="#">🔗</a> |  <a href="#">🔗</a> |
 | Adrien  | <a href="https://github.com/VoisinAdrien">🔗</a>        |    <a href="#">🔗</a> |  <a href="#">🔗</a> | 
 
 <!--

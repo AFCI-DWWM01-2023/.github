@@ -76,12 +76,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 
 
 
-## Wordpress - Front et Back  
 
-| Developer | GitHub | Sujet Libre<br>Front-End | Legendary | Ultime | Hosting Landing Page |  Sujet libre |
-| :---- |:-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
-|   |  ![imgGit](./profile/img/git.svg)&nbsp;  | ![imgWordpress](./profile/img/wordpress.svg) ![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;&nbsp; |
-| Adrien  | <a href="https://github.com/VoisinAdrien">🔗</a>        |    <a href="#">🔗</a> |  <a href="#">🔗</a> | 
 
 <!--
 https://github.com/AFCI-DWWM01-2023/MASSIF-VQ.git

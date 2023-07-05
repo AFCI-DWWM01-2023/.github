@@ -24,7 +24,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 # CCP1 : Front - End    
 Développer la partie Front-End d'une application Web   
 ou Web Mobile en intégrant les recommandations de sécurité
-| Developer | GitHub |Maquette Massif IntégrationWeb |Maquette Legendary IntégrationWeb |Maquette Ultime IntégrationWeb | HostingLandingPage |  SujetLibre |Calculatrice|
+| Developer | GitHub |Maquette Massif IntégrationWeb |Maquette Legendary IntégrationWeb |Maquette Ultime IntégrationWeb | HostingLandingPage |Maquette SujetLibre IntégrationWeb |Calculatrice|
 | :---- |:-------:| :-----:| :-----:| :-----:| :-----:| :-----:|:------:|
 |  |  ![imgGit](./profile/img/git.svg)&nbsp;  |  ![imgFigma](./profile/img/figma.svg)&nbsp; ![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg) ![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp;|![imgFigma](./profile/img/figma.svg)&nbsp;![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg) ![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp; | ![imgFigma](./profile/img/figma.svg)&nbsp; ![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg) ![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp; | ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; | ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; |![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;|
 | Jayson  | <a href="https://github.com/Gazon-unlimited">🔗</a> |   <a href="https://github.com/AFCI-DWWM01-2023/MASSIF-JAY-B.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/LEGENDARY-JAY-B.git">🔗</a> |  <a href="#">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/Hosting-JAY-B.git">🔗</a> |  <a href="#">🔗</a> |

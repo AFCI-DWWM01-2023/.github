@@ -49,7 +49,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 
 - [JavaScript : Calculatrice](https://github.com/AFCI-DWWM01-2023/Brief_Calculatrice.git)
 
-- [JavaScript : Carte interactive des régions de France](https://github.com/AFCI-DWWM01-2023/Brief_Calculatrice.git)
+- [JavaScript : Carte interactive des régions de France](https://github.com/AFCI-DWWM01-2023/Brief_Regions.git)
 
 
 # CCP2 - Back - End

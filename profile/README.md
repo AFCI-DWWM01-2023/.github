@@ -53,6 +53,8 @@ ou Web Mobile en intégrant les recommandations de sécurité
 
 - [JavaScript : Memory Card](https://github.com/AFCI-DWWM01-2023/Brief_MemoryCard.git)
 
+- [JavaScript : Application Météo](https://github.com/AFCI-DWWM01-2023/Brief_AppMeteo.git)
+
 
 # CCP2 - Back - End
 Développer la partie Back-End d'une application Web  

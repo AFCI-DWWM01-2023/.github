@@ -57,6 +57,8 @@ ou Web Mobile en intégrant les recommandations de sécurité
 
 - [JavaScript : Le Quizz](https://github.com/AFCI-DWWM01-2023/Brief_Quizz.git)
 
+- [JavaScript : Le jeu du Morpion](https://github.com/AFCI-DWWM01-2023/Brief_Morpion.git)
+
 
 # CCP2 - Back - End
 Développer la partie Back-End d'une application Web  

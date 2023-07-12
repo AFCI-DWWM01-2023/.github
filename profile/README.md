@@ -55,6 +55,8 @@ ou Web Mobile en intégrant les recommandations de sécurité
 
 - [JavaScript : Application Météo](https://github.com/AFCI-DWWM01-2023/Brief_AppMeteo.git)
 
+- [JavaScript : Le Quizz](https://github.com/AFCI-DWWM01-2023/Brief_Quizz.git)
+
 
 # CCP2 - Back - End
 Développer la partie Back-End d'une application Web  

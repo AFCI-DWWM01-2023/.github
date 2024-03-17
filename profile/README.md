@@ -3,7 +3,6 @@
 Du 20 Mars 2023 au 30 Novembre 2023  
 Période de stage en entreprise : 21 Août au 15 Novembre 2023  
 
-## [Préparation oral](https://github.com/AFCI-DWWM01-2023/PRESENTATION.git)
 
 ## Languages & Tools  
 ![imgGit](./profile/img/git.svg)&nbsp;&nbsp;

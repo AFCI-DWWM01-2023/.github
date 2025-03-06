@@ -6,26 +6,26 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 
 ## Languages & Tools  
 ![imgGit](../profile/img/git.svg)&nbsp;&nbsp;
-![imgVscode](./profile/img/vscode.svg)&nbsp;&nbsp;
-![imgFigma](./profile/img/figma.svg)&nbsp;&nbsp;
-![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;
-![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;
-![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp; 
-![imgPhp](./profile/img/php2.svg)&nbsp;&nbsp;
-![imgSymfony](./profile/img/symfony.svg)&nbsp;&nbsp;
-![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; 
-![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;
-![imgReact](./profile/img/react.svg)&nbsp;&nbsp;
-![imgMySql](./profile/img/mysql1.svg)&nbsp;&nbsp;
-![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;&nbsp;
-![imgWordpress](./profile/img/wordpress.svg) 
+![imgVscode](../profile/img/vscode.svg)&nbsp;&nbsp;
+![imgFigma](../profile/img/figma.svg)&nbsp;&nbsp;
+![imgHtml](../profile/img/html.svg) &nbsp;&nbsp;
+![imgCSS](../profile/img/css.svg)&nbsp;&nbsp;
+![imgLess](../profile/img/less-1.svg)&nbsp;&nbsp; 
+![imgPhp](../profile/img/php2.svg)&nbsp;&nbsp;
+![imgSymfony](../profile/img/symfony.svg)&nbsp;&nbsp;
+![imgBootStrap](../profile/img/bootstrap.svg)&nbsp;&nbsp; 
+![imgJs](../profile/img/javascript.svg)&nbsp;&nbsp;
+![imgReact](../profile/img/react.svg)&nbsp;&nbsp;
+![imgMySql](../profile/img/mysql1.svg)&nbsp;&nbsp;
+![imgPhpMyAdmin](../profile/img/PhpMyAdmin.svg)&nbsp;&nbsp;
+![imgWordpress](../profile/img/wordpress.svg) 
 
 # CCP1 : Front - End    
 Développer la partie Front-End d'une application Web   
 ou Web Mobile en intégrant les recommandations de sécurité
 | Developer | GitHub |MaquetteMassif IntégrationWeb |MaquetteLegendary IntégrationWeb |MaquetteUltime IntégrationWeb | HostingLandingPage |SujetLibre IntégrationWeb |ProjetCalculatrice|RégionsDeFrance| JeuDesCartesMémoire | ApplicationMétéo | ApplicationQuizz | LeJeuDuMorpion |
 | :---- |:-------:| :-----:| :-----:| :-----:| :-----:| :-----:|:------:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|  |  ![imgGit](./profile/img/git.svg)&nbsp;  |  ![imgFigma](./profile/img/figma.svg)&nbsp; ![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg) ![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp;|![imgFigma](./profile/img/figma.svg)&nbsp;![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg) ![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp; | ![imgFigma](./profile/img/figma.svg)&nbsp; ![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg) ![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp; | ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; | ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp;|![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;|![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;|![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;|![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;|![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;|![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;|
+|  |  ![imgGit](../profile/img/git.svg)&nbsp;  |  ![imgFigma](../profile/img/figma.svg)&nbsp; ![imgHtml](../profile/img/html.svg)&nbsp;![imgCSS](../profile/img/css.svg) ![imgLess](../profile/img/less-1.svg)&nbsp;&nbsp;|![imgFigma](../profile/img/figma.svg)&nbsp;![imgHtml](../profile/img/html.svg)&nbsp;![imgCSS](../profile/img/css.svg) ![imgLess](../profile/img/less-1.svg)&nbsp;&nbsp; | ![imgFigma](../profile/img/figma.svg)&nbsp; ![imgHtml](../profile/img/html.svg)&nbsp;![imgCSS](../profile/img/css.svg) ![imgLess](../profile/img/less-1.svg)&nbsp;&nbsp; | ![imgBootStrap](../profile/img/bootstrap.svg)&nbsp;&nbsp; | ![imgBootStrap](../profile/img/bootstrap.svg)&nbsp;&nbsp;|![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;|![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;|![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;|![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;|![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;|![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;|
 | Jayson  | <a href="https://github.com/Gazon-unlimited">🔗</a> |   <a href="https://github.com/AFCI-DWWM01-2023/MASSIF-JAY-B.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/LEGENDARY-JAY-B.git">🔗</a> |  <a href="#">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/Hosting-JAY-B.git">🔗</a> |<a href="#">🔗</a>|<a href="https://github.com/AFCI-DWWM01-2023/JayB-Calculatrice-JS.git">🔗🌟</a> |<a href="https://github.com/AFCI-DWWM01-2023/JayB-carte-de-france-JS.git">🔗</a> |<a href="#">🔗</a> |
 | Lucas  | <a href="https://github.com/LucasDEKINDT">🔗</a>     |   <a href="https://github.com/AFCI-DWWM01-2023/MASSIF-LD.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/LegendaryLD.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/ULTIMATE_LD.git">🔗👍</a> |  <a href="https://github.com/AFCI-DWWM01-2023/HOSTINGLD.git">🔗</a> |<a href="#">🔗</a> | <a href="https://github.com/AFCI-DWWM01-2023/Calculatrice_LD.git">🔗</a> |<a href="https://github.com/AFCI-DWWM01-2023/Regions_LD.git">🔗</a> |<a href="https://github.com/AFCI-DWWM01-2023/MEMORY_LD.git">🔗</a> | 🌟 |
 | Jean-Baptiste  | <a href="https://github.com/jubeyds">🔗</a>  |   <a href="https://github.com/jubeyds/Massif.git">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/LegendaryJB.git">🔗</a> |  <a href="#">🔗</a> |  <a href="https://github.com/AFCI-DWWM01-2023/Hosting-JBDS.git">🔗</a> |  <a href="#">🔗</a> |<a href="#">🔗⚠️</a> |<a href="#">🔗⚠️</a> |<a href="#">🔗🌟</a> |

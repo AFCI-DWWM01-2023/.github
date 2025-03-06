@@ -5,7 +5,7 @@ Période de stage en entreprise : 21 Août au 15 Novembre 2023
 
 
 ## Languages & Tools  
-![imgGit](./profile/img/git.svg)&nbsp;&nbsp;
+![imgGit](../profile/img/git.svg)&nbsp;&nbsp;
 ![imgVscode](./profile/img/vscode.svg)&nbsp;&nbsp;
 ![imgFigma](./profile/img/figma.svg)&nbsp;&nbsp;
 ![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;
